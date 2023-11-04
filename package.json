@@ -1,0 +1,29 @@
+{
+  "name": "assignment-9-PratikHariya",
+  "version": "1.0.0",
+  "description": "Assignment 9",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "sass": "sass scss/main.scss dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2022/assignment-9-PratikHariya.git"
+  },
+  "author": "Pratik Hariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2022/assignment-9-PratikHariya/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2022/assignment-9-PratikHariya#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "sass": "^1.50.0"
+  }
+}
